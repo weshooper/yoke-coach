@@ -1,5 +1,5 @@
 body {
-    padding: 0; margin: 0; text-align: center; font-family: 'Lucida Grande', Helvetica, Arial, sans-serif;
+    padding: 0; margin: 0; text-align: center; font-family: 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 12pt;
 }
 
 h1 {
@@ -47,6 +47,7 @@ label span, label small {
 
 input, textarea {
     width: 100%;
+    font-size: 12pt;
 }
 
 button {
