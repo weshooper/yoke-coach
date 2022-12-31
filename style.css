@@ -14,6 +14,10 @@ a {
     color: #12846f;
 }
 
+a.action, button {
+    background: #9be3d6; color: white; border: none; font-size: 13pt; padding: 15px; border-radius: 5px; margin: 10px 0; text-decoration: none; display: inline-block; cursor: pointer;
+}
+
 ol {
     text-align: left;
 }
@@ -30,8 +34,23 @@ img {
     width: 200px; border-radius: 5px;
 }
 
+form {
+    text-align: left;
+    margin: auto;
+    width: 300px;
+}
+
+label span, label small {
+    display: block;
+    padding: 9px 0 6px;
+}
+
+input, textarea {
+    width: 100%;
+}
+
 button {
-    background: #9be3d6; color: white; border: none; font-size: 13pt; padding: 15px; border-radius: 5px;
+    margin-left: 125px;
 }
 
 footer {
