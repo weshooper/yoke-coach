@@ -40,9 +40,15 @@ form {
     width: 300px;
 }
 
-label span, label small {
+label span {
     display: block;
     padding: 9px 0 6px;
+}
+
+label small {
+    display: block;
+    margin-top: -3px;
+    padding-bottom: 6px;
 }
 
 input, textarea {
