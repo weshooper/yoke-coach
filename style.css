@@ -10,6 +10,14 @@ h1 {
     font-size: 26pt; line-height: 28pt; font-family: 'Ubuntu', sans-serif;
 }
 
+h1 a {
+    text-decoration: none; color: inherit;
+}
+
+h1 a:hover {
+    opacity: 0.9;
+}
+
 h1 span {
     font-size: 34pt;
 }
