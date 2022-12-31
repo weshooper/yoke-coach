@@ -7,9 +7,7 @@ h1 {
 }
 
 section {
-    padding: 30px 10%;
-    min-height: 250px;
-    background: white;
+    padding: 30px 10%; min-height: 250px; background: white;
 }
 
 a {
@@ -37,25 +35,19 @@ img {
 }
 
 form {
-    text-align: left;
-    margin: auto;
-    width: 300px;
+    text-align: left; margin: auto; width: 300px;
 }
 
 label span {
-    display: block;
-    padding: 9px 0 6px;
+    display: block; padding: 9px 0 6px;
 }
 
 label small {
-    display: block;
-    margin-top: -3px;
-    padding-bottom: 6px;
+    display: block; margin-top: -3px; padding-bottom: 6px;
 }
 
 input, textarea {
-    width: 100%;
-    font-size: 12pt;
+    width: 100%; font-size: 12pt;
 }
 
 button {
