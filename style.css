@@ -1,13 +1,15 @@
 body {
-    padding: 0; margin: 0; text-align: center; font-family: 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 12pt;
+    padding: 0; margin: 0; text-align: center; font-family: 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 12pt; background: #9be3d6;
 }
 
 h1 {
-    padding: 30px 10%; margin: 0; width: 80%; background: #9be3d6; color: white; text-transform: uppercase;
+    padding: 30px 10%; margin: 0; width: 80%; color: white; text-transform: uppercase;
 }
 
 section {
     padding: 30px 10%;
+    min-height: 250px;
+    background: white;
 }
 
 a {
@@ -61,5 +63,5 @@ button {
 }
 
 footer {
-    padding: 30px 10%; margin: 0; width: 80%; background: #9be3d6; color: white;
+    padding: 30px 10%; margin: 0; width: 80%; color: white;
 }
