@@ -59,6 +59,12 @@ form {
     text-align: left; margin: auto; width: 300px;
 }
 
+form div {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 20px;
+}
+
 label span {
     display: block; padding: 9px 0 6px;
 }
