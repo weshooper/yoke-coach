@@ -82,5 +82,13 @@ button {
 }
 
 footer {
-    padding: 30px 10%; margin: 0; width: 80%; color: white;
+    padding: 20px 10% 30px; margin: 0; width: 80%; color: white; font-size: 20pt;
+}
+
+footer p span {
+    font-size: 11pt;
+}
+
+footer p:nth-child(2) {
+    opacity: 0.33; margin-top: 30px; font-size: 9pt;
 }
