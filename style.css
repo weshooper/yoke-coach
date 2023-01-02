@@ -23,15 +23,33 @@ h1 span {
 }
 
 section {
-    padding: 15px 10% 30px; min-height: 250px; background: white;
+    padding: 15px 9% 30px; min-height: 250px; background: white;
+}
+
+section > div {
+    background: #e2eeff;
+    margin: 35px -20px auto;
+    padding: 5px 15px;
 }
 
 h2 {
     margin: 35px 0 -5px;
 }
 
+section > div h2 {
+    margin-top: 10px;
+}
+
 h2, a {
     color: #2153a2;
+}
+
+p {
+    line-height: 16pt;
+}
+
+ul {
+    text-align: left;
 }
 
 a.action, button {
