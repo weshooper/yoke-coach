@@ -57,7 +57,7 @@ ul {
 }
 
 a.action, button {
-    display: inline-block; cursor: pointer; padding: 15px; border-radius: 5px; margin: 10px 0;
+    display: inline-block; cursor: pointer; padding: 15px 30px; border-radius: 5px; margin: 10px 0;
     background: #2153a2; color: white; border: none; font-size: 13pt; text-decoration: none;
 }
 
@@ -100,7 +100,7 @@ input, textarea {
 }
 
 button {
-    margin-left: 125px;
+    margin-left: 90px;
 }
 
 footer {
